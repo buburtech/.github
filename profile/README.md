@@ -1,6 +1,6 @@
-# Internal IT Audit Team
+# Buburtech Team
 
-Welcome to the GitHub organization for the **Internal IT Audit Team**.
+Welcome to the GitHub organization for the **Buburtech Team**.
 
 This organization is used to develop and maintain internal software solutions that support the team's audit activities and operational processes.
 
