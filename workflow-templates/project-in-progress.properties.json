@@ -1,0 +1,1 @@
+{ "name": "Project: In progress saat cabang dibuat", "description": "Memindahkan kartu issue ke In progress ketika cabang <tipe>/<nomor>-<slug> dibuat.", "iconName": "octicon project", "categories": ["Automation"] }

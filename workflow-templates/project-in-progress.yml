@@ -1,0 +1,9 @@
+name: project-in-progress
+on:
+  create:
+jobs:
+  call:
+    if: github.ref_type == 'branch'
+    uses: buburtech/.github/.github/workflows/project-in-progress.yml@main
+    secrets:
+      PROJECT_TOKEN: ${{ secrets.PROJECT_TOKEN }}
