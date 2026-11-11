@@ -1,0 +1,25 @@
+name: Fitur
+description: Kemampuan baru atau perubahan perilaku
+labels: ["type:feature"]
+projects: ["buburtech/5"]
+body:
+  - type: textarea
+    id: tujuan
+    attributes:
+      label: Tujuan
+      description: Masalah apa yang diselesaikan dan untuk siapa
+    validations:
+      required: true
+  - type: textarea
+    id: kriteria
+    attributes:
+      label: Kriteria selesai
+      description: Daftar yang bisa dicentang
+      placeholder: "- [ ] ..."
+    validations:
+      required: true
+  - type: textarea
+    id: catatan
+    attributes:
+      label: Catatan
+      description: Tautan dokumen, issue terkait, risiko
