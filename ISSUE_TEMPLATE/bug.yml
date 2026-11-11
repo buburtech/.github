@@ -1,7 +1,6 @@
 name: Bug
 description: Perilaku yang salah
 labels: ["type:bug"]
-projects: ["buburtech/5"]
 body:
   - type: textarea
     id: langkah

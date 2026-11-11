@@ -1,7 +1,6 @@
 name: Tugas
 description: Pekerjaan teknis, perawatan, refaktor, atau dokumen
 labels: ["type:chore"]
-projects: ["buburtech/5"]
 body:
   - type: textarea
     id: uraian

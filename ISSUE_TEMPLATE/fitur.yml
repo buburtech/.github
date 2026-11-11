@@ -1,7 +1,6 @@
 name: Fitur
 description: Kemampuan baru atau perubahan perilaku
 labels: ["type:feature"]
-projects: ["buburtech/5"]
 body:
   - type: textarea
     id: tujuan
