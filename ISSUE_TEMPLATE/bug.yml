@@ -1,0 +1,22 @@
+name: Bug
+description: Perilaku yang salah
+labels: ["type:bug"]
+projects: ["buburtech/5"]
+body:
+  - type: textarea
+    id: langkah
+    attributes:
+      label: Langkah mereproduksi
+    validations:
+      required: true
+  - type: textarea
+    id: diharapkan
+    attributes:
+      label: Hasil yang diharapkan dan yang terjadi
+    validations:
+      required: true
+  - type: textarea
+    id: lingkungan
+    attributes:
+      label: Lingkungan
+      description: Layanan, versi, server (dev/staging)
